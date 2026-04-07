@@ -16,8 +16,7 @@ background: /public/1bg.png
 指导教师：邹玮
 
 ---
-layout: image-right
-image: /public/page2.jpg
+layout: two-cols
 ---
 
 # 研究背景
@@ -26,6 +25,10 @@ image: /public/page2.jpg
 - 图像在采集、传输、存储中容易受噪声污染，影响后续识别与分析
 - 传统滤波方法常出现“降噪”和“保边缘”难以兼顾的问题
 - 这使得图像去噪成为图像预处理中的关键环节
+
+::right::
+
+<ImageScanCompare noisy-src="/public/page2a.png" clean-src="/public/page2b.png" />
 
 ---
 layout: two-cols
