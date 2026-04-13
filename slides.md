@@ -4,7 +4,7 @@ title: 图像阈值去噪方法的实现
 info: 
 transition: slide-left
 mdc: true
-background: /public/imgs/1bg.png
+background: /imgs/1bg.png
 ---
 
 # 图像阈值去噪方法的实现
@@ -28,7 +28,7 @@ layout: two-cols
 
 ::right::
 
-<ImageScanCompare noisy-src="/public/imgs/page2a.png" clean-src="/public/imgs/page2b.png" />
+<ImageScanCompare noisy-src="/imgs/page2a.png" clean-src="/imgs/page2b.png" />
 
 ---
 layout: two-cols
@@ -79,7 +79,7 @@ layout: two-cols
 
 ::right::
 
-![page4](/public/imgs/page4.png)
+![page4](/imgs/page4.png)
 
 ---
 
